@@ -17,7 +17,7 @@ In order to use the boilerplate you will need the following:
 ## Setup
 1. Pull the repo
   ```bash
-  git clone git@github.com:stepful/interview_template.git && cd interview_template
+  git clone git@github.com:stepful/fullstack_boilerplate.git && cd fullstack_boilerplate
   ```
 
 2. (Optional) Copy .env.sample to .env (should be sensible defaults, but feel free to make changes as desired)
